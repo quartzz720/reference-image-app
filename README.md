@@ -1,5 +1,5 @@
 # Reference Image App
-
+![app-preview](https://i.imgur.com/ul6YdJT.png)
 Minimal always-on-top image viewer for Windows. Useful for artists, designers, and animators who need a reference image pinned above other apps; resizing keeps the original aspect ratio.
 
 ## Build
